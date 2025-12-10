@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # 在下面的代码行中使用断点来调试脚本。
-    print(f'Hello, {name}')  # 按 ⌘F8 切换断点。
+    print(f'Hello everybody, {name}')  # 按 ⌘F8 切换断点。
 
 
 # 按装订区域中的绿色按钮以运行脚本。
